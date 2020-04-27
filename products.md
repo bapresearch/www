@@ -2,14 +2,23 @@
 title: bap research
 ---
 
-# projects
+<div style="float: right;">
+
+en/[pt](pt/products.html)
+
+</div>
+
+
+# products
 
 <section id="featured">
 <div class="container">
 <div>
-<h1>bilbo</h1>
-<p>bap's AES encryption tool.</p>
-<a>view -></a>
+<img src="images/fourfourz2.png"/>
+<h1>fourfour</h1>
+<h2>$7.00</h2>
+<p>4x4 keypad PCB.</p>
+<a href="fourfour.html">view -></a>
 </div>
 
 <!--<div>

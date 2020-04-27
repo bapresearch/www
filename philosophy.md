@@ -2,6 +2,13 @@
 title: bap research
 ---
 
+<div style="float: right;">
+
+en/[pt](pt/philosophy.html)
+
+</div>
+
+
 # philosophy
 
 - ## freedom
@@ -15,8 +22,4 @@ we will **never** collect or share any data of you.
 - ## no annoying emails
 
 we will **never** send you spam or sale emails. if we ever send you an email, it will make sense.
-
-- ## linux
-
-every software we make is linux-first.
 
